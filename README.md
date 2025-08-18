@@ -53,3 +53,8 @@ npm run dev
 Database: Migration (projects table):
 
 database/migrations/2025_01_01_000000_create_projects_table.php
+
+Model & Resource:
+
+app/Models/Project.php
+app/Http/Resources/ProjectResource.php
